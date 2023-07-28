@@ -53,9 +53,11 @@ skinparam card {
   shadowing<<risk_table>> false  
 }
 
+
 !procedure $RiskTable()
 hide stereotype
 card risks <<risk_table>>
+!endprocedure
 
 
 
