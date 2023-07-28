@@ -56,4 +56,9 @@ skinparam card {
 !procedure $RiskTable()
 hide stereotype
 card risks <<risk_table>>
+
+!procedure $StrideTable()
+hide stereotype
+card risks <<stride_table>>
+
 !endprocedure
